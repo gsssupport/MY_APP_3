@@ -1,0 +1,1 @@
+[{ "key": "D~4~DEFAULT_SETTINGS~RANGER", "target" : "SCAN_SETTINGS", "content" :"{ \"query\" : \"delete from scan_settings where app_id =? and scs_code =?\", \"params\" : [$DQ$4$DQ$,$DQ$RANGER_SCAN$DQ$] }", "qry_type" : "D"  }]
